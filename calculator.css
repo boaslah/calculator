@@ -1,0 +1,35 @@
+.center{
+    margin-left: 450px;
+    margin-top: 30PX;
+    background-color:rgb(105, 71, 71);
+    padding-left: 55px;
+    padding-top: 90px;
+    margin-right: 450px;
+    border-radius:10px;
+
+}
+button{
+    background-color: rgb(105, 104, 104);
+    color:white;
+    font-size: 20px;
+    width: 80px;
+    opacity: 5px;
+    border-radius: 5px;
+    height: 50px;
+    border-style: none;
+}
+.button{
+    padding: 20px;
+    margin-left: -20px;
+}
+input{
+    width: 327PX;
+    padding: 15px;
+    border-radius: 5px;
+    background-color:white;
+    border-style: none;
+    font-size: 20px;
+}
+.orange-background{
+    background-color:  rgb(179, 99, 71);
+}
